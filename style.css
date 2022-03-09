@@ -1,0 +1,105 @@
+body {
+  font-family: Courier New, arial, sans-serif;
+  background-color: black;
+  color: white;
+  margin: 2em;
+}
+
+h1 {
+  font-family: Courier new, helvetica, verdana;
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#startBtn {
+  background-color: lightgreen;
+  color: black;
+}
+
+#stopBtn {
+  background-color: pink;
+  color: black;
+}
+
+#playerTurnBtn {
+  background-color: chartreuse;
+  color: white;
+}
+
+#playClueBtn {
+  background-color: deepskyblue;
+  color: white;
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+
+#timer {
+  background-color: gold;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+  background-image: url(https://cdn.freebiesupply.com/logos/large/2x/real-madrid-c-f-logo-png-transparent.png);
+  background-size: cover;
+}
+#button1:active, #button1.lit {
+  background-image: url(https://www.seekpng.com/png/full/136-1368457_renders-de-football-cristiano-ronaldo-png-juventus.png);
+  background-size: cover;
+}
+
+#button2 {
+  background-image: url(https://www.freepnglogos.com/uploads/barcelona-png/barcelona-logos-dream-league-soccer-cear-fotos-0.png);
+  background-size: cover;
+}
+#button2:active, #button2.lit {
+  background-image: url(https://i.pinimg.com/originals/76/15/db/7615dbf576821d3a8a550d29f3c00593.png);
+  background-size: cover;
+}
+
+#button3 {
+  background-image: url(https://toppng.com//public/uploads/preview/liverpool-escudo-png-liverpool-fc-11563230032asey2vfwyy.png);
+  background-size: cover;
+}
+#button3:active, #button3.lit {
+  background-image: url(https://i.pinimg.com/originals/b8/4e/84/b84e84bc925a97623a3210614c281fff.jpg);
+  background-size: cover;
+}
+
+#button4 {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png);
+  background-size: cover;
+}
+#button4:active, #button4.lit {
+  background-image: url(https://e7.pngegg.com/pngimages/119/93/png-clipart-manuel-neuer-fc-bayern-munich-bundesliga-football-goalkeeper-manuel-neuer-tshirt-jersey-thumbnail.png);
+  background-size: cover;
+}
+
+
+#button5 {
+  background-image: url(https://assets.stickpng.com/images/580b57fcd9996e24bc43c4d8.png);
+  background-size: cover;
+}
+#button5:active, #button5.lit {
+  background-image: url(https://www.kindpng.com/picc/m/147-1475430_neymar-hd-png-download.png);
+  background-size: cover;
+}
+
+
+#button6 {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png);
+  background-size: cover;
+}
+#button6:active, #button6.lit {
+  background-image: url(https://www.futwiz.com/assets/img/fifa21/faces/201565677.png);
+  background-size: cover;
+}
