@@ -67,7 +67,7 @@ https://www.permadi.com/tutorial/jsInnerHTMLDOM/index.html
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://vimeo.com/686507713)
+[My 5-minute Interview Recording](https://vimeo.com/689549949)
 
 
 ## License
